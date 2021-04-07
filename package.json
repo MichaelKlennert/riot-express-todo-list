@@ -10,9 +10,12 @@
   "author": "Pedro Narciso García Revington <p.revington@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.15.2",
+    "cmd": "^0.1.0",
     "express": "^4.14.0",
     "jade": "^1.11.0",
+    "node": "^15.12.0",
     "node-cmd": "^3.0.0",
     "node-ssh": "^5.1.2"
   }
